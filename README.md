@@ -1,7 +1,7 @@
-# Skill-Nation_Sales_Dashboard
+# Skill_Nation_Sales_Dashboard
 My first ever dashboard design in PowerBI
 
-I have learnt the basics of BI and designed this dashboard by following Masterclass lecture on Visualization using Microsoft PowerBI from Skill Nation
+* I have learnt the basics of BI and designed this dashboard by following Masterclass lecture on Visualization using Microsoft PowerBI from Skill Nation
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 ###### Problem Statement  
 
